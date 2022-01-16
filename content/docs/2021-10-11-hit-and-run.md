@@ -2,6 +2,7 @@
 title: "Hit and Run"
 date: 2021-10-11T01:55:00-06:00
 draft: false
+bookToc: false
 ---
 
 # Hit and Run
