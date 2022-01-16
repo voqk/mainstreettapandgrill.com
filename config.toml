@@ -1,0 +1,5 @@
+baseURL = 'http://mainstreettapandgrill.com/'
+languageCode = 'en-us'
+title = 'Main Street Tap and Grill'
+theme = 'mstg-theme'
+sectionPagesMenu = 'main'
