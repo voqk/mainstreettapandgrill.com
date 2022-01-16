@@ -1,5 +1,16 @@
 baseURL = 'http://mainstreettapandgrill.com/'
 languageCode = 'en-us'
-title = 'Main Street Tap and Grill'
-theme = 'mstg-theme'
+title = 'MST&G'
+theme = 'hugo-book'
 sectionPagesMenu = 'main'
+
+[params]
+BookSection = 'posts'
+BookMenuBundle = '/menu'
+
+[markup]
+[markup.goldmark.renderer]
+    unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1

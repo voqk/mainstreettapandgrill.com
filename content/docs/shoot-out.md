@@ -1,0 +1,24 @@
+---
+title: "Shoot Out"
+date: 2021-10-11T01:55:00-06:00
+draft: false
+---
+
+# Fight over a hit car leads to a shoot out
+
+{{< hint danger >}}
+**Warning Graphic Content**
+
+This video contains graphic language and gun violence.
+{{< /hint >}}
+
+{{< youtube jKRc_bFUytk >}}
+
+- [3:54](https://www.youtube.com/watch?v=jKRc_bFUytk&t=234s) - Vehicle hit leaving bar. Fight breaks out.
+- [4:53](https://www.youtube.com/watch?v=jKRc_bFUytk&t=293s) - Group comes from the bar.
+- [5:50](https://www.youtube.com/watch?v=jKRc_bFUytk&t=350s) - Some of the group tries to calm down the situation.
+- [5:58](https://www.youtube.com/watch?v=jKRc_bFUytk&t=358s) - Man pulls shirt off and wants to fight.
+- [6:57](https://www.youtube.com/watch?v=jKRc_bFUytk&t=417s) - Car peels out.
+- [7:04](https://www.youtube.com/watch?v=jKRc_bFUytk&t=424s) - Gunshots
+- [7:22](https://www.youtube.com/watch?v=jKRc_bFUytk&t=442s) - More gunshots
+- [12:27](https://www.youtube.com/watch?v=jKRc_bFUytk&t=747s) - HPD arrives.
