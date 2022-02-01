@@ -37,6 +37,7 @@ If you're thinking of going to MST&G, you should consider one of the other aweso
 - [Fusion Taco](https://fusiontacomain.com/)
 - [Hughie's](https://www.hughiesgrille.com/)
 - [Pinkerton's Barbecue](https://pinkertonsbarbecue.com/location/houston/)
+- [re:HAB Bar on the Bayou](https://www.instagram.com/rehabonthebayou/?hl=en)
 - [Space Cowboy](https://www.instagram.com/spacecowboyhou/?hl=en)
 
 ## Bar Details
